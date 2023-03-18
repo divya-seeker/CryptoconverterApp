@@ -1,0 +1,21 @@
+.cartStyle{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    row-gap: 17px;
+    background-color: #EADDCA;
+    padding-inline: 90px;
+}
+.cardStyle{
+    border: rgb(0, 0, 0);
+}
+.ton{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+    font-weight: 400;
+}
+.but{
+    width:60px;
+    color:black;
+    border-radius: 50%;
+}

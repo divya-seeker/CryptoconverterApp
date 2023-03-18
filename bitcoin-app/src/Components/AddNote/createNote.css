@@ -1,0 +1,39 @@
+input,textarea {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display:inline-block;
+    *display: inline;     /* for IE7*/
+    zoom:1;              /* for IE7*/
+    vertical-align:middle;
+    margin-left:20px;
+    color: #561b08;
+    border-radius: 7px;
+    border: 3px solid #DAA06D;
+    font-size: 1.2rem;
+    font-weight: 400;
+    background-color: #efdfc2;
+}
+
+#title{
+    height:35px
+}
+
+label {
+    display:inline-block;
+    *display: inline;     /* for IE7*/
+    zoom:1;              /* for IE7*/
+    float: left;
+    padding-top: 5px;
+    text-align: right;
+    width: 140px;
+}
+.but{
+    /* display: flex; */
+    /* margin-left: 50px; */
+}
+.butt{
+    /* display: none; */
+}
+.textarea{
+    height: 150px;
+}

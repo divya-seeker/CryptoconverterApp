@@ -1,0 +1,9 @@
+.note{
+    background-color: #6e3309;
+    color: azure;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}

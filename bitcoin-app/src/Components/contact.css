@@ -1,0 +1,33 @@
+.abt {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(248, 233, 215);
+}
+.form{
+    width: 600px;
+    /* height */
+}
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ant-input:hover {
+    border-color: #57a8e9;
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 2px rgba(87,168,233, .2);
+    box-shadow: 0 0 0 2px rgba(87,168,233, .2);
+}
+Input.success:focus { /*or a more specific selector*/
+    outline:none;
+    border:3px solid #D27D2D;
+}
+.succes:focus { /*or a more specific selector*/
+    outline:none;
+    border:3px solid #D27D2D;
+}
+ /* Input.success { /*or a more specific selector*/
+    /* border:3px solid #6E260E; */
+ 

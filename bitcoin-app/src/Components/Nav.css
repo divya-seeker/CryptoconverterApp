@@ -1,0 +1,24 @@
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    column-gap: 5vw;
+}
+Link{
+    text-decoration: none;
+}
+.Navi{
+    width: 100vw;
+    height: 50px;
+    /* padding:15px 10px 15px ; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: rgb(163, 28, 28);
+    font-weight: 500;
+    font-size: larger;
+    background-color: #E5AA70;
+    position: fixed;
+    z-index: 10;
+}

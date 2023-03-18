@@ -1,0 +1,26 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(250, 235, 217);
+}
+  
+  .crypto-card {
+    min-width: 60vw;
+    min-height: 40vh;
+    border: 4px solid rgb(178, 178, 178);
+    box-shadow: 4px 1px 4px 4px;
+  }
+  
+  .select-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+  }
+.para{
+    margin-top: 1rem;
+    font-size: 1.4rem;
+    color: #26364f;
+}
